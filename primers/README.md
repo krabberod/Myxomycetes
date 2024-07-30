@@ -1,5 +1,5 @@
 # Primerdesign
-- Challenge: To design primers specifically for myxomycetes, suitable for long-read (PacBio) sequencing. There are some primers published that cover the first part of 18S, but we lack a match in 28S. 
+- Challenge: To design primers specifically for myxomycetes, suitable for long-read (PacBio) sequencing. There are some primers published that cover the first part of 18S, but we lack a candidate in 28S. 
 
 ## Forward 
 | Primer         | Sequence 5' -> 3'            | Taxonomic range                                                                                       |
