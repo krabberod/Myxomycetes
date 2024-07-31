@@ -1,7 +1,10 @@
 # Primerdesign
 - Challenge: To design primers specifically for myxomycetes, suitable for long-read (PacBio) sequencing. There are some primers published that cover the first part of 18S, but we lack a candidate in 28S. 
 
+# Published primers
 
+The list is from Schnittler et al. (2017)
+  
 ### Forward 
 | Primer        | Sequence 5' -> 3'         | Taxonomic range                                                                                                       |
 | ------------- | ------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -29,3 +32,6 @@ These are not as interesting since they do not bind to the 28S gene.
 | SU19R          | gacttgtcctctaattgttactcg     | dark-spored myxomycetes (Fiore-Donno et al. 2012)                                                    |
 | SR19Dark       | gtcctctaattgttactcgad        | dark-spored myxomycetes (Fiore-Donno et al. 2016)                                                    |
 | SP03r          | tcctctaattgttactcgag         | dark-spored myxomycetes (Kamono et al. 2013)                                                         |
+
+# References
+Schnittler, M., Shchepin, O. N., Dagamac, N. H. A., Dahl, M. B. & Novozhilov, Y. K. Barcoding myxomycetes with molecular markers: challenges and opportunities. Nova Hedwig. 104, 323–341 (2017).
