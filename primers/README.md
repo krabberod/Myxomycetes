@@ -30,5 +30,7 @@ These are not as interesting since they do not bind to the 28S gene.
 | S31R            | atctctcaggccactctccagg    |                   |             | dark-spored, specific for myxomycetes (unpubl.)                                                                                                                            |
 | SU19R           | gacttgtcctctaattgttactcg  |                   |             | dark-spored myxomycetes (Fiore-Donno et al. 2012)                                                                                                                          |
 | SR19Dark        | gtcctctaattgttactcgad     |                   |             | dark-spored myxomycetes (Fiore-Donno et al. 2016)                                                                                                                          |
-| SP03r           | tcctctaattgttactcgag      |                   |             | dark-spored myxomycetes (Kamono et al. 2013)                                                                                                                               |# References
+| SP03r           | tcctctaattgttactcgag      |                   |             | dark-spored myxomycetes (Kamono et al. 2013)                                                                                                                               | 
+
+References
 Schnittler, M., Shchepin, O. N., Dagamac, N. H. A., Dahl, M. B. & Novozhilov, Y. K. Barcoding myxomycetes with molecular markers: challenges and opportunities. Nova Hedwig. 104, 323–341 (2017).
