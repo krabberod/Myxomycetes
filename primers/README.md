@@ -45,4 +45,5 @@ These are designed from the small portion of data we got from the first run of t
 | Primer    | Sequence 5' -> 3'    | Appr. bindingsite | Description                                                          | Taxonomic range |
 | --------- | -------------------- | ----------------- | -------------------------------------------------------------------- | --------------- |
 | LSU_Myx_1 | TCCTTGCTTACCAACRTGGC |                   | Designed on a short conserved region at the start of 28S (AKK, 2024) | unknown         |
-| LSU_Myx_2 |                      |                   |                                                                      |                 |
+| LSU_Myx_2 | TGCHTAGAGKYWAGCTCAAM |                   | Designed on a short conserved region at a bit into 28S (AKK, 2024)   | unknown         |
+
