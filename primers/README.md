@@ -39,3 +39,9 @@ These are not as interesting since they do not bind to the 28S gene.
 References
 Schnittler, M., Shchepin, O. N., Dagamac, N. H. A., Dahl, M. B. & Novozhilov, Y. K. Barcoding myxomycetes with molecular markers: challenges and opportunities. Nova Hedwig. 104, 323–341 (2017).
 Martín MP, Lado C, Johansen S. Primers are designed for amplification and direct sequencing of ITS region of rDNA from Myxomycetes. Mycologia. 2003 May-Jun;95(3):474-9. doi: 10.1080/15572536.2004.11833092. PMID: 21156636.
+
+### Other primers
+These are designed from the small portion of data we got from the first run of the PacBio sequencing.
+| Primer          | Sequence 5' -> 3'         | Appr. bindingsite | Description | Taxonomic range                                                                                                                                                            |
+| --------------- | ------------------------- | ----------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  | TGCTGGCACCAGACTTGT        |                   |             | dark-spored and some bright-spored genera, but covers in part the intron insertion site S516, which may give problems in genera with this intron (Fiore-Donno et al. 2008) |
