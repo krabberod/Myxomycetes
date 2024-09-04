@@ -42,6 +42,7 @@ Martín MP, Lado C, Johansen S. Primers are designed for amplification and direc
 
 ### Other primers
 These are designed from the small portion of data we got from the first run of the PacBio sequencing.
-| Primer          | Sequence 5' -> 3'         | Appr. bindingsite | Description | Taxonomic range                                                                                                                                                            |
-| --------------- | ------------------------- | ----------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  | TGCTGGCACCAGACTTGT        |                   |             | dark-spored and some bright-spored genera, but covers in part the intron insertion site S516, which may give problems in genera with this intron (Fiore-Donno et al. 2008) |
+| Primer    | Sequence 5' -> 3'    | Appr. bindingsite | Description                                                          | Taxonomic range |
+| --------- | -------------------- | ----------------- | -------------------------------------------------------------------- | --------------- |
+| LSU_Myx_1 | TCCTTGCTTACCAACRTGGC |                   | Designed on a short conserved region at the start of 28S (AKK, 2024) | unknown         |
+| LSU_Myx_2 |                      |                   |                                                                      |                 |
